@@ -14,4 +14,4 @@
 | 4    | Retrieval Augmented Generation (RAG)                          | 45 min lecture and 45 min coding lab | Dmitry  |
 | 5    | Evaluating LLMs                                               | 45 min lecture and 45 min coding lab | Jussi   |
 | 6    | Use cases and applications of LLMs                            | 45 min lecture and 45 min coding lab | Dmitry  |
-| 7    | Project presentations                                         | Student project presentations        | Aarne   |
+| 7    | Group project presentations                                   | Student project presentations        | Aarne   |
