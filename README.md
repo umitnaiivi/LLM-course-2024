@@ -2,7 +2,7 @@
 
 **Time:** Fall 2024 / Period 2\
 **Target group:** Master's students\
-**Teachers:** Aarne Talman, Dmitry Kan, Jussi Karlgren\
+**Teachers:** Aarne Talman, Dmitry Kan, Jussi Karlgren
 
 ## Syllabus
 
