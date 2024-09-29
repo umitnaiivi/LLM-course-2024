@@ -2,7 +2,7 @@
 
 **Time:** Fall 2024 / Period 2\
 **Target group:** Master's students\
-**Teachers:** Aarne Talman, Dmitry Kan, Jussi Karlgren
+**Teachers:** Aarne Talman, Dmitry Kan, Jussi Karlgren\
 **Prerequisites:** Python coding experience, basics of machine Learning (e.g. Machine Learning for Linguists (LDA-T317, KIK-LG210))
 
 ## Course Description
