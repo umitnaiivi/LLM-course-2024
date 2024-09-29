@@ -3,9 +3,9 @@
 **Time:** Fall 2024 / Period 2\
 **Target group:** Master's students\
 **Teachers:** 
-* Aarne Talman, EMEA Machine Learning Lead, Accenture, [aarne.talman@helsinki.fi](mailto:aarne.talman@helsinki.fi)
-* Dmitry Kan, Search Product Manager, TomTom, [dmitry.kan@helsinki.fi](mailto:dmitry.kan@helsinki.fi)
-* Jussi Karlgren, Principal AI Scientist, Silo AI, [jussi.karlgren@helsinki.fi](mailto:jussi.karlgren@helsinki.fi)
+* Aarne Talman, Accenture, [aarne.talman@helsinki.fi](mailto:aarne.talman@helsinki.fi)
+* Dmitry Kan, TomTom, [dmitry.kan@helsinki.fi](mailto:dmitry.kan@helsinki.fi)
+* Jussi Karlgren, Silo AI, [jussi.karlgren@helsinki.fi](mailto:jussi.karlgren@helsinki.fi)
 
 **Prerequisites:** Python coding experience, basics of machine Learning (e.g. Machine Learning for Linguists (LDA-T317, KIK-LG210))
 
