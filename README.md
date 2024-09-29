@@ -2,7 +2,10 @@
 
 **Time:** Fall 2024 / Period 2\
 **Target group:** Master's students\
-**Teachers:** Aarne Talman (Accenture, University of Helsinki), Dmitry Kan (TomTom), Jussi Karlgren (Silo AI)\
+**Teachers:** 
+* Aarne Talman (Accenture, University of Helsinki)
+* Dmitry Kan (TomTom)
+* Jussi Karlgren (Silo AI)\
 **Prerequisites:** Python coding experience, basics of machine Learning (e.g. Machine Learning for Linguists (LDA-T317, KIK-LG210))
 
 ### Contacts:
