@@ -5,6 +5,11 @@
 **Teachers:** Aarne Talman, Dmitry Kan, Jussi Karlgren\
 **Prerequisites:** Python coding experience, basics of machine Learning (e.g. Machine Learning for Linguists (LDA-T317, KIK-LG210))
 
+### Contacts:
+* Aarne Talman: [aarne.talman@helsinki.fi](mailto:aarne.talman@helsinki.fi)
+* Dmitry Kan: [dmitry.kan@helsinki.fi](mailto:dmitry.kan@helsinki.fi)
+* Jussi Karlgren: [jussi.karlgren@helsinki.fi](mailto:jussi.karlgren@helsinki.fi)
+
 ## Course Description
 
 This hands-on course delves into the world of Large Language Models (LLMs) and their applications in Natural Language Processing (NLP). Students will gain understanding of how LLMs work, how to fine-tune them for specific tasks, and how to leverage their capabilities for various NLP applications. Through weekly lectures and coding labs, students will gain practical experience working with state-of-the-art LLMs and explore their potential to revolutionize the field of NLP.
