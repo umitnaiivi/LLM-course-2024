@@ -7,7 +7,9 @@
 * Dmitry Kan, TomTom, [dmitry.kan@helsinki.fi](mailto:dmitry.kan@helsinki.fi)
 * Jussi Karlgren, Silo AI, [jussi.karlgren@helsinki.fi](mailto:jussi.karlgren@helsinki.fi)
 
-**Prerequisites:** Python coding experience, basics of machine Learning (e.g. Machine Learning for Linguists (LDA-T317, KIK-LG210))
+**Prerequisites:** 
+* Python coding experience
+* Basics of machine Learning (e.g. Machine Learning for Linguists (LDA-T317, KIK-LG210))
 
 ## Course Description
 
