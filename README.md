@@ -63,7 +63,7 @@ This hands-on course delves into the world of Large Language Models (LLMs) and t
 **Week 6: Use cases and applications of LLMs**
 * Exploring various real-world applications of LLMs in NLP
 * Discussing the potential impact of LLMs on different industries
-* Hands-on lab: Implementing an LLM-based solution for a real-world problem
+* Hands-on lab: TBD
 
 **Week 7: Group project presentations**
 * Students present their final group projects plan, showcasing their understanding and application of LLMs in NLP.
