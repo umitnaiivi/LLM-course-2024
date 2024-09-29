@@ -40,29 +40,29 @@ Final group project submission (75%)
 * Hands-on lab: Experimenting with different prompts and evaluating their effectiveness
 
 **Week 3: Evaluating LLMs**
-Understanding the challenges and metrics involved in evaluating LLMs
-Exploring different evaluation frameworks and benchmarks
-Hands-on lab: Evaluating LLMs using different metrics and benchmarks
+* Understanding the challenges and metrics involved in evaluating LLMs
+* Exploring different evaluation frameworks and benchmarks
+* Hands-on lab: Evaluating LLMs using different metrics and benchmarks
 
 **Week 4: Fine-tuning LLMs**
-Understanding the concept of fine-tuning and its benefits
-Exploring different fine-tuning techniques and strategies
-Hands-on lab: Fine-tuning an LLM for a specific NLP task
+* Understanding the concept of fine-tuning and its benefits
+* Exploring different fine-tuning techniques and strategies
+* Hands-on lab: Fine-tuning an LLM for a specific NLP task
 
 **Week 5: Retrieval Augmented Generation (RAG)**
-Understanding the concept of RAG and its advantages
-Exploring different RAG architectures and techniques
-Hands-on lab: Implementing a RAG system for a specific NLP task
+* Understanding the concept of RAG and its advantages
+* Exploring different RAG architectures and techniques
+* Hands-on lab: Implementing a RAG system for a specific NLP task
 
 **Week 6: Use cases and applications of LLMs**
-Exploring various real-world applications of LLMs in NLP
-Discussing the potential impact of LLMs on different industries
-Hands-on lab: Implementing an LLM-based solution for a real-world problem
+* Exploring various real-world applications of LLMs in NLP
+* Discussing the potential impact of LLMs on different industries
+* Hands-on lab: Implementing an LLM-based solution for a real-world problem
 
 **Week 7: Group project presentations**
-Students present their final group projects plan, showcasing their understanding and application of LLMs in NLP.
+* Students present their final group projects plan, showcasing their understanding and application of LLMs in NLP.
 
 **Group Project submission**
-Final projects are submitted by 31st December 2024
+* Final projects are submitted by 31st December 2024
 
 Note: This syllabus is subject to change at the discretion of the instructors. Any modifications will be communicated to the students in a timely manner.
