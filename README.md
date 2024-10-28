@@ -38,7 +38,7 @@ This hands-on course delves into the world of Large Language Models (LLMs) and t
 **Week 1: Introduction to Generative AI and Large Language Models (LLM)**
 * Overview of Generative AI and its applications in NLP
 * Introduction to Large Language Models (LLMs) and their architecture
-* Hands-on lab: Getting started with LLMs using popular libraries
+* Lab: Learn about tokenizers
 
 **Week 2: Using LLMs and Prompting-based approaches**
 * Understanding prompt engineering and its importance in working with LLMs
