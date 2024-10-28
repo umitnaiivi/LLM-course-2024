@@ -19,6 +19,13 @@ This hands-on course delves into the world of Large Language Models (LLMs) and t
 
 The course will be evaluated based on the submission of a final report.
 
+Students will need to submit a final report that covers all the labs:
+
+What was done in each lab?
+What was the motivation behind your solutions?
+What did you learn?
+Challenges you encountered? 
+
 ## Syllabus
 
 | Week | Dates     | Topic / Lecture                                                          | Format                               | Teacher |
