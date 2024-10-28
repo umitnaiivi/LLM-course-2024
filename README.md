@@ -24,7 +24,7 @@ This hands-on course delves into the world of Large Language Models (LLMs) and t
 
 | Week | Dates     | Topic / Lecture                                                          | Format                               | Teacher |
 |------|-----------|--------------------------------------------------------------------------|--------------------------------------|---------|
-| 1    | 29/31.10. | [Introduction to Generative AI and Large Language Models (LLM)](week-1/) | 45 min lecture and 45 min coding lab | Aarne   |
+| 1    | 29/31.10. | [Introduction to Generative AI and Large Language Models (LLM)](week-1/) | 45 min lecture and 45 min lab | Aarne   |
 | 2    | 05/07.11. | [Using LLMs and Prompting-based approaches](week-2/)                     | 45 min lecture and 45 min coding lab | Aarne   |
 | 3    | 12/14.11. | [Evaluating LLMs](week-3/)                                               | 45 min lecture and 45 min coding lab | Jussi   |
 | 4    | 9/21.11.  | [Fine-tuning LLMs](week-4/)                                              | 45 min lecture and 45 min coding lab | Aarne   |
