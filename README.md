@@ -17,8 +17,7 @@ This hands-on course delves into the world of Large Language Models (LLMs) and t
 
 ## Evaluation
 
-* Weekly lab exercise submissions (25%)
-* Final group project submission (75%)
+The course will be evaluated based on the submission of a final report.
 
 ## Syllabus
 
