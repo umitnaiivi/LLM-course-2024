@@ -1,6 +1,6 @@
 # Introduction to Generative AI and Large Language Models (LLM)
 
-Week 1 is the most theory-heavy week of the course. You can find the lecture slides here: [Week 1 Slides](week-1/LLM-Course Lecture 1.pdf).
+Week 1 is the most theory-heavy week of the course. You can find the lecture slides here: [Week 1 Slides](LLM-Course Lecture 1.pdf).
 
 ## Lab Assignment
 
