@@ -1,5 +1,7 @@
 # Large Language Models and Generative AI for NLP
 
+**THIS REPOSITORY WILL EVOLVE OVER THE DURATION OF THE COURSE. WE WILL ADD CONTENT AS WE GO.**
+
 **Time:** Fall 2024 / Period 2\
 **Target group:** Master's students\
 **Teachers:** 
