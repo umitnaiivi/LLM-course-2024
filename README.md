@@ -2,6 +2,8 @@
 
 **THIS REPOSITORY WILL EVOLVE OVER THE DURATION OF THE COURSE. WE WILL ADD CONTENT AS WE GO.**
 
+**Join course [Discord](https://discord.gg/TtQegUuN)**
+
 **Time:** Fall 2024 / Period 2\
 **Target group:** Master's students\
 **Teachers:** 
