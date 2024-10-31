@@ -79,6 +79,6 @@ Challenges you encountered?
 * Students work on their final reports, showcasing their understanding of the labs and the concepts learned.
 
 **Group Project submission**
-* Final projects are submitted by 31st December 2024
+* Final reports are submitted by 31st December 2024
 
 Note: This syllabus is subject to change at the discretion of the instructors. Any modifications will be communicated to the students in a timely manner.
