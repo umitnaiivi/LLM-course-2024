@@ -75,8 +75,8 @@ Challenges you encountered?
 * Discussing the potential impact of LLMs on different industries
 * Hands-on lab: TBD
 
-**Week 7: Group project presentations**
-* Students present their final group projects plan, showcasing their understanding and application of LLMs in NLP.
+**Week 7: Final report preparation**
+* Students work on their final reports, showcasing their understanding of the labs and the concepts learned.
 
 **Group Project submission**
 * Final projects are submitted by 31st December 2024
