@@ -13,3 +13,6 @@
 **Set up Python & Jupyter environment**
 * I use Python 3.12 for running code locally
 * For inference or fine-tuning requiring GPU, I use Google Colab: https://colab.research.google.com/
+
+
+## Prompting 

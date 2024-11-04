@@ -13,7 +13,7 @@ prompts = configparser.ConfigParser()
 prompts.read('prompts.env')
 
 # Set system prompt
-system_prompt = prompts.get("SYSTEM_PROMPTS", "BASIC_PROMPT")
+system_prompt = prompts.get("SYSTEM_PROMPTS", "IT_HELPDESK")
 
 # Set up the app, including daisyui and tailwind for the chat component
 hdrs = (picolink, Script(src="https://cdn.tailwindcss.com"),
