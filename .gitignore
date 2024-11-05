@@ -241,3 +241,6 @@ cython_debug/
 
 *.pyc
 .sesskey
+
+papers.html
+pdf_file.pdf
